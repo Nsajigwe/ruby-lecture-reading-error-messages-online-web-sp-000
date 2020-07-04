@@ -1,5 +1,5 @@
-"hello world"
+puts "hello world"
 
-hello_world
+"hello_world"
 
 
